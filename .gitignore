@@ -1,0 +1,47 @@
+# Compilación de clase
+*.class
+
+# Archivos de log
+*.log
+
+# Directorios generados por IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sublime*
+
+# Archivos generados por compiladores Java
+target/
+bin/
+out/
+
+# Librerías descargadas (usualmente por sistemas de build como Maven o Gradle)
+lib/
+
+# Configuración específica del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Maven
+log/
+*.war
+*.ear
+
+# Archivos de Gradle
+.gradle/
+build/
+
+# Cachés y temporales
+*.tmp
+*.swp
+*.bak
+
+# Configuración de entorno
+.env
+
+# Otros
+**/.classpath
+**/.project
+**/.settings/
